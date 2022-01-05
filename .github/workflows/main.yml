@@ -11,7 +11,10 @@ jobs:
       matrix:
         targetPlatform:
           - StandaloneOSX # Build a macOS standalone (Intel 64-bit).
+          - StandaloneWindows # Build a Windows standalone.
+          - StandaloneWindows64 # Build a Windows 64-bit standalone.
           - Android # Build an Android .apk standalone app.
+          - iOS # Build an iOS player.
           - WebGL # WebGL.
     steps:
       - uses: actions/checkout@v2
