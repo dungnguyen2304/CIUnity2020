@@ -35,3 +35,4 @@ jobs:
         with:
           name: Build-${{ matrix.targetPlatform }}
           path: build/${{ matrix.targetPlatform }}
+          allowDirtyBuild: true
