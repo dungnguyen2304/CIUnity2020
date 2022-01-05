@@ -7,7 +7,7 @@ public class move : MonoBehaviour
     private float speed = 2.5f;
 
 
-
+    //set for move in android 
     private void PlayOnAndroid()
     {
         //OnMouseDrag();
