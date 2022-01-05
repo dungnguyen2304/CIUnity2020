@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C0B19F10-06BD-2BBB-3845-EA4A0BF226F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/move.cs">
+    <Files>
+      <File FileName="Assets/Script/move.cs" Line="10" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CITestUnity2020" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f83404b-275d-400b-8f04-40fcf1951377" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
